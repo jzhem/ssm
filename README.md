@@ -1,2 +1,2 @@
 # ssm
-news_stufy
+test
